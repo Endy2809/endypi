@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "65392244095",
+    "project_id": "pi2android-b71b0",
+    "storage_bucket": "pi2android-b71b0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:65392244095:android:6adfaa8b5445c8c2d3964a",
+        "android_client_info": {
+          "package_name": "com.example.pi2android"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "65392244095-oltqg4f2knhhjvrocm05p5p9g7cr5ifd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNWYpIwWPR7rYmmcI7rAu1Wqy2jQEG0y4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "65392244095-oltqg4f2knhhjvrocm05p5p9g7cr5ifd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
